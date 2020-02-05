@@ -1,0 +1,16 @@
+body {
+    background-color: #ac3939;
+}
+
+form {
+    margin: 15%;
+    margin-top: 5%;
+
+}
+
+#div {
+    background-color: #ffcc99;
+    margin: 30%;
+    margin-top: 5%;
+    border-radius: 5%;
+}
